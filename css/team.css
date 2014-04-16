@@ -1,0 +1,32 @@
+#tabs-1, #tabs-2, #tabs-3 {
+	text-align: center;
+}
+
+.teammember {
+	border-top: 2px solid #ef6104;
+	border-left: 2px solid #ef6104;
+	border-bottom: 2px solid #ef6104;
+	border-right: 2px solid #ef6104;
+	margin-bottom: 10px;
+	margin-right: 3px;
+	width: 225px;
+	height: 227px;
+}
+
+.teammember:hover {
+	opacity: 0.7;
+	}
+
+.teammembermodal {
+	width: 200px;
+	height: auto;
+}
+
+.membersoc {
+	height: 40px;
+	width: 40px;
+}
+
+.membersoc:hover {
+	opacity: 0.8;
+}
