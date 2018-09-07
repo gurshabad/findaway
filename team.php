@@ -155,7 +155,7 @@
                 </p>
                 <p>&nbsp;</p>
                 <p>
-                    <a href="mailto:rohan@findaway.in"><img class="membersoc" src="./img/Social_Icons/email.png"/></a>
+                    
                     <a href="https://www.facebook.com/rohan.katyal121212"><img class="membersoc" src="./img/Social_Icons/facebook.png"/></a>
                     <a href="http://in.linkedin.com/pub/rohan-katyal/7a/704/a9b/"><img class="membersoc" src="./img/Social_Icons/linkedin.png"/></a>
                 </p>
@@ -187,7 +187,7 @@
                 </p>
                 <p>&nbsp;</p>
                 <p>
-                    <a href="mailto:megha@findaway.in"><img class="membersoc" src="./img/Social_Icons/email.png"/></a>
+                    
                     <a href="https://www.facebook.com/megha.arora.779"><img class="membersoc" src="./img/Social_Icons/facebook.png"/></a>
                     <a href="http://in.linkedin.com/in/meghaarora42/"><img class="membersoc" src="./img/Social_Icons/linkedin.png"/></a>
                 </p>
@@ -250,7 +250,7 @@
                 <p>&nbsp;</p>
                 <p>
                     <a href="https://www.facebook.com/tomboy.tayal"><img class="membersoc" src="./img/Social_Icons/facebook.png"/></a>
-                    <a href="mailto:aakritittayal03@gmail.com"><img class="membersoc" src="./img/Social_Icons/email.png"/></a>
+                    
                 </p>
             </div>
         </div>
@@ -280,7 +280,6 @@
                 </p>
                 <p>&nbsp;</p>
                 <p>
-                    <a href="mailto:shabadgrover@gmail.com"><img class="membersoc" src="./img/Social_Icons/email.png"/></a>
                     <a href="http://www.github.com/gurshabad"><img class="membersoc" src="./img/Social_Icons/github.png"/></a>
                     <a href="https://twitter.com/GurshabadGrover"><img class="membersoc" src="./img/Social_Icons/twitter.png"/></a>
                     <a href="http://www.quora.com/Gurshabad-Grover"><img class="membersoc img-circle" src="./img/Social_Icons/quora.png"/></a>
@@ -529,7 +528,7 @@
                 </p>
                 <p>&nbsp;</p>
                 <p>
-                    <a href="mailto:dewangunjan6012@gmail.com"><img class="membersoc" src="./img/Social_Icons/email.png"/></a>
+                    
                 </p>
             </div>
         </div>
